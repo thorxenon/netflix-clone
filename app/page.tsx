@@ -1,6 +1,8 @@
 
 export default function Home() {
   return (
-    <div>Olá Mundo</div>
+    <>
+      <h1>Netflix CLone</h1>
+    </>
   )
 }
